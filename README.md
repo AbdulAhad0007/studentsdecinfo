@@ -8,8 +8,8 @@ This is a React-based web application that stores and displays student data, inc
 ✅ Easy-to-update student records
 
 ### 🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS / Bootstrap (if used)
+Frontend: React.js, Tailwind CSS / Bootstrap 
 
 State Management: React Hooks (useState, useEffect)
 
-Data Handling: JSON / Firebase / API (if applicable)
+Data Handling: JSON 
