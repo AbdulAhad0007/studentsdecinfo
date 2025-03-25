@@ -1,12 +1,15 @@
-# React + Vite
+# 📌 SDEC students 2nd year data
+This is a React-based web application that stores and displays student data, including Name, Roll Number, Date of Birth (DOB), and other relevant details for 2nd-year students.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+✅ List of all 2nd-year students with their details
+✅ Search and filter functionality
+✅ User-friendly and responsive UI
+✅ Easy-to-update student records
 
-Currently, two official plugins are available:
+### 🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS / Bootstrap (if used)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+State Management: React Hooks (useState, useEffect)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Data Handling: JSON / Firebase / API (if applicable)
