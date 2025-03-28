@@ -415,7 +415,7 @@ function Content() {
             <td>Mohd Asad Rehman</td>
             <td>2302400100059</td>
             <td>{b1}</td>
-            <td></td>
+            <td>24-10-2004</td>
           </tr>
           <tr>
             <td>60</td>
